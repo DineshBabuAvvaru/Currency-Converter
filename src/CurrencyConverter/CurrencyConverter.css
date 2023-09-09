@@ -1,0 +1,50 @@
+.converter{
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 10px;
+    border-style:dashed;
+    padding: 10px;
+    margin: 200px;
+    margin-top: 10px;
+}
+
+
+
+.Heading{
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 40px;
+
+}
+
+.Amount-heading{
+    color:red;
+    font-size: 35px;
+    padding: 10px;
+}
+
+.side-heading{
+    color:blueviolet;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.paragraph{
+    font-size: 30px;
+    padding: 10px;
+    color: fuchsia;
+}
+
+.box{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.button{
+    font-size: 20px;
+    background-color: rgb(2, 109, 109);
+    color: white;
+}
